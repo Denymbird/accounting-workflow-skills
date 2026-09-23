@@ -1,0 +1,16 @@
+Date,Description,Account,Amount,Contact
+2026-07-03,Monthly hosting,Computer Expenses,-120.00,Cloudhost Ltd
+2026-07-08,Invoice 1041,Sales,2400.00,Baker Joinery
+2026-07-12,Card payment 4417,Ask My Accountant,-289.50,
+2026-07-19,Stationery,Office Expenses,-46.20,Paperworks
+2026-07-22,Invoice 1042,Sales,1850.00,Hale Interiors
+2026-07-28,Transfer,,-1000.00,
+2026-08-02,Monthly hosting,Computer Expenses,-120.00,Cloudhost Ltd
+2026-08-05,Invoice 1043,Sales,3100.00,Baker Joinery
+2026-08-09,,Office Expenses,-78.40,Paperworks
+2026-08-14,Card payment 9920,Ask My Accountant,-412.00,
+2026-08-14,Card payment 9920,Ask My Accountant,-412.00,
+2026-08-21,Invoice 1044,Sales,900.00,Hale Interiors
+2026-08-26,Subscriptions,Computer Expenses,-59.00,Cloudhost Ltd
+2026-08-30,Bank fee,Bank Fees,-12.50,
+2026-08-31,Not a number,Sales,abc,Baker Joinery
